@@ -21,14 +21,48 @@ body {
 
 img {
   border-radius: 28px;
+}
+
+#primeiraimg {
   margin-bottom: 0;
 }
+
+#segundaimg {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+#terceiraimg {
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+
+#quartaimg {
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+
 
 #about {
   font-size: 16px;
   font-style: italic;
-  
+  margin-top: 24px;
+  text-align: center;
+  margin-bottom: 0px;
+}
 
+#divisor {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+p {
+  margin-top: 0;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 h1 {
@@ -55,6 +89,7 @@ h2 {
 h3 {
   font-size: 28px;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 h7 {
@@ -79,10 +114,13 @@ h9 {
 
 h10 {
   color: #E95E10;
+  
 }
 
 #final {
+  margin-top: 38px;
   margin-bottom: 65px;
+  text-align: center;
 }
 
 footer {
